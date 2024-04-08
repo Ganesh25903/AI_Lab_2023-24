@@ -1,5 +1,5 @@
 # Ex.No: 10  Logic Programming –  Simple queries from facts and rules
-### DATE: 11/03/2024                                                                           
+### DATE: 16/03/2024                                                                           
 ### REGISTER NUMBER : 212221060057
 ### AIM: 
 To write a prolog program to find the answer of query. 
@@ -35,7 +35,8 @@ food(peanuts).
 ```
 
 ### Output:
-![279567779-64ba5c45-815e-4fa6-91f0-817d4cb6a1e7](https://github.com/Ganesh25903/AI_Lab_2023-24/assets/159774337/a37979c4-d309-4117-9886-198accd504c8)
+![image](https://github.com/Ganesh25903/AI_Lab_2023-24/assets/159774337/20144b10-74d5-4900-a43d-5ee06b060aa3)
+
 
 
 ### Task 2:
@@ -59,7 +60,8 @@ course(bk301,dept(havefun)).
 
 
 ### Output:
-![279567962-b17de8b0-a990-428e-956d-622cb51e8a4f](https://github.com/Ganesh25903/AI_Lab_2023-24/assets/159774337/39390d14-e1bc-492c-8624-55faba9fc0be)
+![image](https://github.com/Ganesh25903/AI_Lab_2023-24/assets/159774337/c3076aaa-aee5-4d0a-a387-a995ecdda836)
+
 
 
 ### Task 3:
@@ -90,7 +92,8 @@ american(west).
 
 
 ### Output:
-![image](https://github.com/Ganesh25903/AI_Lab_2023-24/assets/159774337/2510bc15-e22a-49fd-a305-1812ab17c07c)
+![image](https://github.com/Ganesh25903/AI_Lab_2023-24/assets/159774337/ebc0df2b-8653-4a7e-b92f-1682f9aaa9bc)
+
 
 
 ### Result:
